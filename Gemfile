@@ -2,7 +2,7 @@
 source 'https://rubygems.org'
 
 gem 'rails',        '5.2.4'
-gem 'bcrypt',         '3.1.11'
+gem 'bcrypt',         '3.1.13'
 gem 'faker',          '1.7.3'
 gem 'carrierwave',             '2.0.2'
 gem "mini_magick", ">= 4.9.4"
