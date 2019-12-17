@@ -11,7 +11,7 @@ gem 'bootstrap-will_paginate', '1.0.0'
 gem "bootstrap-sass", ">= 3.4.1"
 gem 'puma',         '3.9.1'
 gem 'sass-rails',   '6.0.0'
-gem 'uglifier',     '3.2.0'
+gem 'uglifier',     '4.2.0'
 gem 'coffee-rails', '4.2.2'
 gem 'jquery-rails', '4.3.5'
 gem 'turbolinks',   '5.2.1'
