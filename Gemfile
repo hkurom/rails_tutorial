@@ -1,7 +1,7 @@
 # coding: utf-8
 source 'https://rubygems.org'
 
-gem 'rails',        '5.2.4'
+gem 'rails',        '6.0.2.1'
 gem 'bcrypt',         '3.1.13'
 gem 'faker',          '2.9.0'
 gem 'carrierwave',             '2.0.2'
