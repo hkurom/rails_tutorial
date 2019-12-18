@@ -20,7 +20,7 @@ gem "ffi", ">= 1.9.24"
 gem "loofah", ">= 2.2.3"
 
 group :development, :test do
-  gem 'sqlite3', '1.3.13'
+  gem 'sqlite3', '1.4.1'
   gem 'byebug',  '11.0.1', platform: :mri
 end
 
