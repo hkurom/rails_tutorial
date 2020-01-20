@@ -21,7 +21,7 @@ gem "loofah", ">= 2.2.3"
 
 group :development, :test do
   gem 'sqlite3', '1.3.13'
-  gem 'byebug',  '11.0.1', platform: :mri
+  gem 'byebug',  '11.1.0', platform: :mri
 end
 
 group :development do
